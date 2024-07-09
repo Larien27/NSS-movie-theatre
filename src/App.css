@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  color: #ffffff;
+}
+
+nav a {
+  padding: 29px 10px;
+}
+
+nav a:hover {
+  background-color: #c94a00;
+}
+
+.link {
+  background-color: #c94a00;
+  text-decoration: none;
+  color: aliceblue;
+  padding: 5px 10px;
+  border-radius: 30px;
+}

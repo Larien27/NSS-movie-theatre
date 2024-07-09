@@ -1,0 +1,36 @@
+h1 {
+    font-weight: 300;
+    font-size: 4.5vw;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 3vw;
+    text-transform: uppercase;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    padding: 25px 15px;
+}
+
+@media (max-width: 684px) {
+    .cards {
+        grid-template-columns: 100%;
+    }
+
+    h1 {
+        font-size: 6vw !important;
+    }
+
+    h2 {
+        font-size: 4vw !important;
+    }
+}
+
+@media (min-width: 685px) and (max-width: 1251px) {
+    .cards {
+        grid-template-columns: repeat(3, 33%);
+    }
+}

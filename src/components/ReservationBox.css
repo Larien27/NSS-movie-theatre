@@ -1,0 +1,14 @@
+.reservations {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.reservation-box {
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    background-color: #1E1E1E;
+    border-radius: 25px;
+    margin: 15px 0;
+}

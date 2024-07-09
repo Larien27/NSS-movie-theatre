@@ -1,0 +1,30 @@
+.detail-panel {
+    min-width: 70%;
+    max-width: 80%;
+    min-height: 50vh;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 20% 40% 40%;
+    column-gap: 20px;
+    align-items: center;
+    justify-items: center;
+}
+
+.detail-panel img {
+    min-height: 30vh;
+    max-height: 45vh;
+}
+
+.info-box {
+    text-align: left;
+}
+
+.info-box p {
+    text-align: justify;
+}
+
+@media (max-width: 1251px) {
+    .detail-panel {
+        grid-template-columns: 100%;
+    }
+}

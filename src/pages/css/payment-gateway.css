@@ -1,0 +1,12 @@
+#payment-gateway__button {
+    width: 90%;
+    height: 80vh;
+    margin-top: 5vh;
+    font-size: 20vw;
+    background-color: rgb(238, 238, 238);
+}
+
+#payment-gateway__button:hover {
+    cursor: pointer;
+    background-color: rgb(212, 212, 212);;
+}

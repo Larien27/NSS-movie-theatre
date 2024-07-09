@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Matrix",
+        "screenings": [
+            {
+                "date": "2024-07-04",
+                "time": "19:00"
+            },
+            {
+                "date": "2024-07-05",
+                "time": "21:00"
+            },
+            {
+                "date": "2024-07-06",
+                "time": "15:00"
+            }
+        ],
+        "description": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. As a rebel against the machines, Neo must confront the agents: super-powerful computer programs devoted to stopping Neo and the entire human rebellion."
+    },
+    {
+        "id": 2,
+        "name": "The Godfather",
+        "screenings": [
+            {
+                "date": "2024-07-04",
+                "time": "19:00"
+            },
+            {
+                "date": "2024-07-05",
+                "time": "21:00"
+            },
+            {
+                "date": "2024-07-06",
+                "time": "15:00"
+            }
+        ],
+        "description": "Michael, the young and idealistic son of Vito Corleone, the head of the most powerful Mafia clan in New York, returns home as a war hero and is determined to live his own life. But tragic circumstances make him face the legacy of his family."
+    },
+    {
+        "id": 3,
+        "name": "The Maze Runner",
+        "screenings": [
+            {
+                "date": "2024-07-04",
+                "time": "19:00"
+            },
+            {
+                "date": "2024-07-05",
+                "time": "21:00"
+            },
+            {
+                "date": "2024-07-06",
+                "time": "15:00"
+            }
+        ],
+        "description": "Awakening in an elevator, remembering nothing of his past, Thomas emerges into a world of about thirty teenage boys, all without past memories, who have learned to survive under their own set of rules in a completely enclosed environment, subsisting on their own agriculture and supplies. With a new boy arriving every thirty days, the group has been in \"The Glade\" for three years, trying to find a way to escape through the Maze that surrounds their living space (patrolled by cyborg monsters named 'Grievers'). They have begun to give up hope when a comatose girl arrives with a strange note, and their world begins to change with the boys dividing into two factions: those willing to risk their lives to escape and those wanting to hang onto what they've got and survive."
+    },
+    {
+        "id": 4,
+        "name": "Inception",
+        "screenings": [
+            {
+                "date": "2024-07-04",
+                "time": "19:00"
+            },
+            {
+                "date": "2024-07-05",
+                "time": "21:00"
+            },
+            {
+                "date": "2024-07-06",
+                "time": "15:00"
+            }
+        ],
+        "description": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible, inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea, but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming."
+    },
+    {
+        "id": 5,
+        "name": "Finding Nemo",
+        "screenings": [
+            {
+                "date": "2024-07-04",
+                "time": "19:00"
+            },
+            {
+                "date": "2024-07-05",
+                "time": "21:00"
+            },
+            {
+                "date": "2024-07-06",
+                "time": "15:00"
+            }
+        ],
+        "description": "A clown fish named Marlin lives in the Great Barrier Reef and loses his son, Nemo, after he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. While Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbour. While the two are searching the ocean far and wide, Nemo and the other sea animals in the dentist's fish tank plot a way to return to the sea to live their lives free again."
+    },
+    {
+        "id": 6,
+        "name": "Inside Out",
+        "screenings": [
+            {
+                "date": "2024-07-04",
+                "time": "19:00"
+            },
+            {
+                "date": "2024-07-05",
+                "time": "21:00"
+            },
+            {
+                "date": "2024-07-06",
+                "time": "15:00"
+            },
+            {
+                "date": "2024-07-06",
+                "time": "18:00"
+            },
+            {
+                "date": "2024-07-06",
+                "time": "21:00"
+            }
+        ],
+        "description": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy, Fear, Anger, Disgust and Sadness. The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house and school."
+    },
+    {
+        "id": 7,
+        "name": "Cosy Dens",
+        "screenings": [
+            {
+                "date": "2024-07-04",
+                "time": "19:00"
+            }
+        ],
+        "description": "Two families, Sebkovi and Krausovi, are celebrating Christmas, but not everyone is in a good mood. Teenage kids think their fathers are totally stupid; fathers are sure their children are nothing more than rebels, hating anything they say."
+    },
+    {
+        "id": 8,
+        "name": "The Greatest Showman",
+        "screenings": [
+        ],
+        "description": "Orphaned, penniless, but ambitious and with a mind crammed with imagination and fresh ideas, the American entertainer, Phineas Taylor Barnum, will always be remembered as the man with the gift to blur the line between reality and fiction. Thirsty for innovation and hungry for success, the son of a tailor manages to open a wax museum; however, he soon shifts focus to the unique and the peculiar, introducing extraordinary, never-seen-before live acts on the circus stage. Now, some people call Barnum's rich collection of oddities, an outright freak show; but, when Phineas, obsessed for cheers and respectability, gambles everything on the opera singer, Jenny Lind, to appeal to a high-brow audience, he will lose sight of the most crucial aspect of his life: his family. Will Barnum, the greatest showman, risk it all to be accepted?"
+    }
+]

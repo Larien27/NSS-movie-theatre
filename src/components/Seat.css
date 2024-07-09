@@ -1,0 +1,47 @@
+.seat {
+    position: relative;
+    height: 50px;
+    width: 64px;
+    cursor: pointer;
+}
+
+.booked {
+    cursor: not-allowed;
+}
+
+.seat::before {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 37px;
+    background-color: red;
+    top: 8px;
+    left: 7px;
+    border-radius: 5px;
+  }
+
+  .booked::before {
+    background-color: darkgrey;
+  }
+
+  .selected::before {
+    background-color: green;
+  }
+
+  .seat::after {
+    content: '';
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    background-color: darkred;
+    left: 15px;
+    border-radius: 5px;
+  }
+
+  .booked::after {
+    background-color: gray;
+  }
+
+  .selected::after {
+    background-color: darkgreen;
+  }

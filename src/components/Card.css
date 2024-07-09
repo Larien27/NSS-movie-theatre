@@ -1,0 +1,50 @@
+.card {
+    min-width: 200px;
+    aspect-ratio: 2/3;
+    border: 2px solid white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    margin: 5vh auto;
+    position: relative;
+    opacity: 1;
+    transition: 0.3s;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.card img {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    left: 0%;
+}
+
+.image-overlay {
+    border-radius: 25px;
+    position: absolute;
+    opacity: 0.75;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    overflow: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+}
+
+h3 {
+    color: white;
+    opacity: 1;
+    padding: 0 5px;
+}
+
+.card:hover {
+    border: 2px solid #c94a00;
+}
+
+.card:hover .image-overlay {
+    visibility: unset;
+}
